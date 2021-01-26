@@ -259,17 +259,17 @@ async function starts() {
 				only: {
 					group: '[❗] Este comando só pode ser usado em grupos! ❌',
 					ownerG: '[❗] Este comando só pode ser usado pelo grupo proprietário! ❌',
-					ownerB: '[❗] Este comando só pode ser usado pelo Toin! ❌',
-					admin: '[❗] Este comando só pode ser usado por administradores de grupo! ❌',
+					ownerB: '[❗] Este comando só pode ser usado pelo 𝑭𝒊𝒍𝒊𝒑𝒆🐊ᴼᴿᴵᴳᴵᴺᴬᴸ! ❌',
+					admin: '[❗] Este comando só pode ser usado por administradores de grupo! MEMBRO COMUM ❌',
 					Badmin: '[❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
-                                        daftarB: `── 「REGISTRE-SE」 ──\nOlá como!\nVocê não está registrado no banco de dados, \n\nComando : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar Toin|18`,
+                                        daftarB: `── 「REGISTRE-SE」 ──\nOlá como!\nVocê não está registrado no banco de dados, \n\nComando : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar Filipe|18`,
 				}
 			}
     			const apakah = ['Ya','Tidak']
         		const bisakah = ['Bisa','Tidak Bisa']
 		        const kapankah = ['Hari Lagi','Minggu Lagi','Bulan Lagi','Tahun Lagi']
 			const botNumber = client.user.jid
-			const ownerNumber = ["556296638900@s.whatsapp.net"] // replace this with your number
+			const ownerNumber = ["5511910725063@s.whatsapp.net"] // replace this with your number
 			const nomorOwner = [ownerNumber]
 			const isGroup = from.endsWith('@g.us')
 			const totalchat = await client.chats.all()
@@ -287,7 +287,7 @@ async function starts() {
 			const isOwner = ownerNumber.includes(sender)
                         const isUser = user.includes(sender)
                         const isLevelingOn = isGroup ? _leveling.includes(groupId) : false
-                        const NomerOwner = '556296638900@s.whatsapp.net'
+                        const NomerOwner = '5511910725063@s.whatsapp.net'
                         /******ApiKey Input******/
                         const BarBarKey = 'YOUR_APIKEY'
                         /******End of ApiKey Input******/
