@@ -1,5 +1,5 @@
 const menuadmin = (prefix, pushname) => {
- return `oiin aqui e o menu dos admins
+ return `Salve familia esse é o MENU dos adms
  _obs para o bot executar esses comandos e nescessario dar adm para o bot_
  
  ◪ *COMANDO DOS ADMINS*
