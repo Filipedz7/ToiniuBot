@@ -1,6 +1,6 @@
 const config = {
-        botName: 'Filipe🐊',
-        ownerName: 'Filipe🐊',
+        botName: 'Toin',
+        ownerName: 'Toin',
         youtube: 'YOUTUBE_LINK',
         instagram: 'INSTAGRAM_LINK',
 }
