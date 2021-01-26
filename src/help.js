@@ -3,9 +3,9 @@ const help = (prefix) => {
 「 *[𝐁𝚶𝐓] 𝑭𝒊𝒍𝒊𝒑𝒆🐊ᴼᴿᴵᴳᴵᴺᴬᴸ* 」
 
 ◪ *Informações*
-  ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : 𝑭𝒊𝒍𝒊𝒑𝒆
-  ❏ Contato : wa.me/5511910725063  
+  🔥 Prefix: 「  ${prefix}  」
+  🔥 Criador : 𝑭𝒊𝒍𝒊𝒑𝒆
+  🔥 Contato : wa.me/5511910725063  
 
 ◪ *SOBRE*
   │
