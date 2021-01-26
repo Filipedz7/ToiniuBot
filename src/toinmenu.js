@@ -1,5 +1,5 @@
-const Filipe🐊 = (prefix, pushname) => {
-    return `◪ *Comandos do Filipe🐊*
+const Filipe = (prefix, pushname) => {
+    return `◪ *Comandos do Filipe*
     │
     ├─ ❏ ${prefix}setprefix
     ├─ ❏ ${prefix}block
@@ -9,4 +9,4 @@ const Filipe🐊 = (prefix, pushname) => {
 
 }
 
-exports.toinmenu = toinmenu
+exports.toinmenu = Filipemenu
