@@ -1,4 +1,4 @@
-const filipe = (prefix, pushname) => {
+const filipemenu = (prefix, pushname) => {
     return `◪ *Comandos do Filipe*
     │
     ├─ ❏ ${prefix}setprefix
