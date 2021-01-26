@@ -7,14 +7,14 @@ const help = (prefix) => {
   🔥 Criador : 𝑭𝒊𝒍𝒊𝒑𝒆
   🔥 Contato : wa.me/5511910725063  
 
-◪ *SOBRE*
+◪ *𝐒𝐎𝐁𝐑𝐄*
   │
   ├─ ❏ ${prefix}info
   ├─ ❏ ${prefix}blocklist
   ├─ ❏ ${prefix}chatlist
   ├─ ❏ ${prefix}ping
   └─ ❏ ${prefix}bugreport
-◪ *FAZER*
+◪ *𝐂𝐑𝐈𝐀𝐑*
   │
   ├─ ❏ ${prefix}sticker
   ├─ ❏ ${prefix}stickergif
@@ -51,12 +51,12 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}herrypotter
   ├─ ❏ ${prefix}pubglogo
   └─ ❏ ${prefix}quotemaker
-◪ *MEDIA*
+◪ *𝐌𝐄𝐃𝐈𝐀*
   │
   ├─ ❏ ${prefix}trendtwit
   ├─ ❏ ${prefix}randomkpop
   └─ ❏ ${prefix}ytsearch
-◪ *EDUCATION*
+◪ *𝐏𝐄𝐒𝐐𝐔𝐈𝐒𝐀*
   │
   ├─ ❏ ${prefix}wiki
   ├─ ❏ ${prefix}wikien
@@ -64,13 +64,13 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}quotes
   ├─ ❏ ${prefix}quotes2
   └─ ❏ ${prefix}artinama
-◪ *KERANG AJAIB*
+◪ *𝐊𝐄𝐑𝐀𝐍𝐆 𝐀𝐉𝐀𝐈𝐁*
   │
   ├─ ❏ ${prefix}apakah
   ├─ ❏ ${prefix}kapankah
   ├─ ❏ ${prefix}rate
   └─ ❏ ${prefix}bisakah
-◪ *DOWNLOADER*
+◪ *𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑*
   │
   ├─ ❏ ${prefix}images
   ├─ ❏ ${prefix}ytmp3
