@@ -2,10 +2,10 @@ const menuadmin = (prefix, pushname) => {
  return `Salve familia esse é o MENU dos adms
  _obs para o bot executar esses comandos e nescessario dar adm para o bot_
  
- ◪ *COMANDO DOS ADMINS*
+ ◪ *🐊COMANDO DOS ADMINS🐊*
  │
- ├─ ❏ ${prefix}abrirgp
- ├─ ❏ ${prefix}fechargp
+ ├─ ❏ ${prefix}opengc
+ ├─ ❏ ${prefix}closegc
  ├─ ❏ ${prefix}promote
  ├─ ❏ ${prefix}demote
  ├─ ❏ ${prefix}tagall
