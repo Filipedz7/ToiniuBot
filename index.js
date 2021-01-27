@@ -259,7 +259,7 @@ async function starts() {
 				only: {
 					group: '[❗] Este comando só pode ser usado em grupos! ❌',
 					ownerG: '[❗] Este comando só pode ser usado pelo grupo proprietário! ❌',
-					ownerB: '[❗] *Apenas o Dono: 𝑭𝒊𝒍𝒊𝒑𝒆🐊ᴼᴿᴵᴳᴵᴺᴬᴸ pode usar este comando* ❌',
+					ownerB: '[❗] *Apenas o Dono:* 𝑭𝒊𝒍𝒊𝒑𝒆🐊ᴼᴿᴵᴳᴵᴺᴬᴸ *pode usar este comando* ❌',
 					admin: '[❗] KKK IAE MEMBRO COMUM, este comando só pode ser usado por ADMS👑! ❌',
 					Badmin: '[❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
                                         daftarB: `── 「REGISTRE-SE」 ──\nOlá como!\nVocê não está registrado no banco de dados, \n\nComando : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar Filipe🐊 melhor adm slk|18`,
@@ -459,7 +459,7 @@ case 'timer':
               case 'owner':
                 case 'creator':
                   client.sendMessage(from, {displayname: "Jeff", vcard: vcard}, MessageType.contact, { quoted: mek})
-               client.sendMessage(from, 'Aqui está o número do meu dono, salve depois',MessageType.text, { quoted: mek} )
+               client.sendMessage(from, 'Aqui está o número do dono, salve depois',MessageType.text, { quoted: mek} )
                 break
 	case 'hidetag':
                 client.updatePresence(from, Presence.composing) 
