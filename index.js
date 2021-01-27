@@ -246,7 +246,7 @@ async function starts() {
 			const isCmd = body.startsWith(prefix)
 
 			mess = {
-				wait: '⌛ Calmaer opoha to fazendo ⌛',
+				wait: '⌛ *Espera ae tiu,to fazendo (caso não receba tente novamente)*',
 				success: '✔️ Sucesso ✔️',
                                 levelon: '❬ ✔ ❭ *habilitar Level*',
 				leveloff: ' ❬ X ❭  *desabilitar Level*',
@@ -259,10 +259,10 @@ async function starts() {
 				only: {
 					group: '[❗] Este comando só pode ser usado em grupos! ❌',
 					ownerG: '[❗] Este comando só pode ser usado pelo grupo proprietário! ❌',
-					ownerB: '[❗] Este comando só pode ser usado pelo 𝑭𝒊𝒍𝒊𝒑𝒆🐊ᴼᴿᴵᴳᴵᴺᴬᴸ! ❌',
-					admin: '[❗] Este comando só pode ser usado por administradores de grupo! MEMBRO COMUM ❌',
+					ownerB: '[❗] *Apenas o Dono: 𝑭𝒊𝒍𝒊𝒑𝒆🐊ᴼᴿᴵᴳᴵᴺᴬᴸ pode usar este comando* ❌',
+					admin: '[❗] KKK IAE MEMBRO COMUM, este comando só pode ser usado por ADMS👑! ❌',
 					Badmin: '[❗] Este comando só pode ser usado quando o bot se torna administrador! ❌',
-                                        daftarB: `── 「REGISTRE-SE」 ──\nOlá como!\nVocê não está registrado no banco de dados, \n\nComando : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar Filipe|18`,
+                                        daftarB: `── 「REGISTRE-SE」 ──\nOlá como!\nVocê não está registrado no banco de dados, \n\nComando : ${prefix}daftar nome|idade\nExemplo : ${prefix}daftar Filipe🐊 melhor adm slk|18`,
 				}
 			}
     			const apakah = ['Ya','Tidak']
